@@ -1,2 +1,2 @@
 # Project-Ligma
-Yeah i dunno really
+# You'll have to run it as admin! and keep it private!
